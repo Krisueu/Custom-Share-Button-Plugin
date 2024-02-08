@@ -1,0 +1,15 @@
+.custom-share-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right; /* Rechts ausrichten */
+    margin: 10px; /* Optional: Fügt etwas Abstand ein */
+    transition: background-color 0.3s ease;
+}
+
+.custom-share-button:hover {
+    background-color: #636363; /* Hover-Effekt: Dunkelgrau */
+}
