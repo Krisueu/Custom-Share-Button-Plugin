@@ -1,7 +1,6 @@
 # Custom Share Button Plugin
 
 The Custom Share Button Plugin is a simple WordPress plugin that allows users to share posts via a custom share button.
-(Currently works with the following browsers: Chrome, Brave, Edge, Opera)
 
 ## Installation
 
