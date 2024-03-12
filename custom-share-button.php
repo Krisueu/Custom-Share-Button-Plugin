@@ -3,7 +3,7 @@
  * Plugin Name: Custom Share Button
  * Plugin URI: https://github.com/K-risu/Custom-Share-Button-Plugin
  * Description: A simple plugin that allows sharing posts via a custom share button.
- * Version: 1.1
+ * Version: 1.1.0
  * Author: Krisu
  * Author URI: https://krisu.eu
  * License: MIT
