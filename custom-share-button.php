@@ -1,11 +1,16 @@
 <?php
-/*
-Plugin Name: Custom Share Button
-Description: A simple plugin that allows sharing posts via a custom share button.
-Version: 1.1
-Author: Krisu
-Author URI: <a href="https://krisu.eu">Krisu<a>
-Icon: images/CustomShareButtonPlugin-Krisu.png
+/**
+ * Plugin Name: Custom Share Button
+ * Plugin URI: https://github.com/K-risu/Custom-Share-Button-Plugin
+ * Description: A simple plugin that allows sharing posts via a custom share button.
+ * Version: 1.1
+ * Author: Krisu
+ * Author URI: https://krisu.eu
+ * License: MIT
+ * License URI: http://opensource.org/licenses/MIT
+ * Requires PHP: 5.6
+ * Text Domain: custom share button
+ * Icon: images/CustomShareButtonPlugin-Krisu.png
 */
 
 // Shortcode hinzufügen für den Share-Button
