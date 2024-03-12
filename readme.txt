@@ -1,9 +1,10 @@
 === Custom Share Button ===
-Contributors: KRISU
+Contributors: Krisú
 Tags: share, social media, button
-Requires at least: 4.0
-Tested up to: 5.9
-Stable tag: 1.1
+Requires at least: 5.5
+Tested up to: 6.4.3
+Stable tag: 1.1.0
+Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
