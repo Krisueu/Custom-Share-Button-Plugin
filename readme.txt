@@ -1,49 +1,43 @@
-=== Custom Share Button ===
-Contributors: Krisú
-Tags: share, social media, button
+=== Custom Share Plugin ===
+Contributors: Krisueu
+Tags: button,custom,share,social
 Requires at least: 5.5
 Tested up to: 6.4.3
-Stable tag: 1.1.0
 Requires PHP: 5.6
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 1.1.0
+License: MIT
+License URI: * License URI: http://opensource.org/licenses/MIT
 
-A simple WordPress plugin that allows users to share posts via a custom share button.
+A simple plugin that allows sharing posts via a custom share button.
 
 == Description ==
-
-Custom Share Button is a lightweight WordPress plugin that adds a custom share button to your posts. This plugin provides an easy way for users to share your content on social media platforms.
+The Custom Share Button Plugin is a simple WordPress plugin that allows users to share posts via a custom share button.
 
 == Installation ==
+1. Upload the `custom-share-button` folder to the `/wp-content/plugins/` directory of your WordPress installation.
 
-1. Upload the `custom-share-button` folder to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+2. Activate the plugin through the WordPress Plugins menu.
+
 3. Use the `[custom_share_button]` shortcode in your posts or pages to display the share button.
 
+
 == Frequently Asked Questions ==
+Which browsers is this plugin compatible with?
 
-= How do I customize the appearance of the share button? =
-
-You can customize the appearance of the share button by modifying the CSS styles in the `custom-share-button.css` file located in the plugin folder.
-
-== Changelog ==
-
-= 1.0 =
-* Initial release.
-
-== Upgrade Notice ==
-
-= 1.0 =
-* Initial release.
+The Custom Share Button plugin is compatible with all browsers.
 
 == Screenshots ==
+1. this is the Custom Share Button
+2. example chrome
+3. example firefox
 
-1. Share button displayed on a post.
+== Changelog ==
+Project maintained on GitHub at [Krisueu/Custom-Share-Button-Plugin](https://github.com/Krisueu/Custom-Share-Button-Plugin)
 
-== Credits ==
+= 1.1.0 =
 
-This plugin is created by KRISU. For any questions or support, please contact us at info@krisu.eu.
+* The Custom Share Button plugin is compatible with all browsers.
 
-== Thank You ==
+= 1.0.0 =
 
-Thank you for using the Custom Share Button plugin! We hope you find it useful for encouraging social sharing on your WordPress site.
+* initial
