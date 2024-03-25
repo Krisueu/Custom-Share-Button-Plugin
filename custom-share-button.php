@@ -8,7 +8,7 @@
  * Author URI: https://krisu.eu
  * License: MIT
  * License URI: http://opensource.org/licenses/MIT
- * Requires PHP: 5.6
+ * Requires PHP: 7.0
  * Text Domain: custom-share-button
 */
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
