@@ -18,6 +18,6 @@ This plugin was created by KRISÚ and is based on the idea of the Custom Share B
 
 ## Contact
 
-For questions, suggestions, or support, please contact us at info@krisu.eu.
+For questions, suggestions, or support, please contact us at https://wordpress.org/support/plugin/custom-share-button/ .
 
 We welcome feedback and are happy to assist with any issues!
