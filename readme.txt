@@ -31,11 +31,11 @@ To add a WordPress Plugin using the [built-in plugin installer](https://codex.wo
 
 = Manual Plugin Installation =
 
-1. Upload the `custom-share-button` folder to the `/wp-content/plugins/` directory of your WordPress installation.
+* Upload the **custom-share-button** folder to the **/wp-content/plugins/** directory of your WordPress installation.
 
-2. Activate the plugin through the WordPress Plugins menu.
+* Activate the plugin through the WordPress Plugins menu.
 
-3. Use the `[custom_share_button]` shortcode in your posts or pages to display the share button.
+* Use the **[custom_share_button]** shortcode in your posts or pages to display the share button.
 
 
 == Frequently Asked Questions ==
