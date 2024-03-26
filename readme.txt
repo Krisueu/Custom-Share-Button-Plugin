@@ -1,4 +1,4 @@
-=== Custom Share Plugin ===
+=== Custom Share Button ===
 Contributors: Krisueu
 Tags: button,custom,share,social
 Requires at least: 6.4
