@@ -39,9 +39,17 @@ To add a WordPress Plugin using the [built-in plugin installer](https://codex.wo
 
 
 == Frequently Asked Questions ==
-Which browsers is this plugin compatible with?
+**Which browsers is this plugin compatible with?**
 
 The Custom Share Button plugin is compatible with all browsers.
+
+**Why does the Custom Share Button appear on the far right side of the post/page after inserting the shortcode?**
+
+This is the default behavior. However, you can position the button at a custom location within the post/page without modifying the code. 
+To do this, click the Plus icon to add a **Block**. Select **Row** from the options. 
+Once this is added, choose **Add Block** from the left sidebar. 
+Select **Shortcode**. After integrating it, paste the code **[custom_share_button]**. 
+Now, under **Select Row**, you can choose the **Alignment of Elements** and customize the position of the button.
 
 == Screenshots ==
 1. this is the Custom Share Button
