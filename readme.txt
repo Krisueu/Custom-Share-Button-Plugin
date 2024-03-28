@@ -17,7 +17,7 @@ The Custom Share Button Plugin is a simple WordPress plugin that allows users to
 
 Follow the normal instructions for [installing WordPress plugins](https://wordpress.org/support/article/managing-plugins/).
 
-= Custom Share Plugin Installation =
+= Custom Share Button Installation =
 
 To add a WordPress Plugin using the [built-in plugin installer](https://codex.wordpress.org/Administration_Screens#Add_New_Plugins):
 
