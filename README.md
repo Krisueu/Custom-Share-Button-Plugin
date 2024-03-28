@@ -30,7 +30,7 @@ You can customize the appearance of the share button by editing the CSS file `cu
 
 * The Custom Share Button plugin is compatible with all browsers.
 
-+1.0.0 
+* 1.0.0 
 
 * initial
 
