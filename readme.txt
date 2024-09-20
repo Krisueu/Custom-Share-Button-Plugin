@@ -2,9 +2,9 @@
 Contributors: Krisueu
 Tags: button,custom,share,social
 Requires at least: 6.4
-Tested up to: 6.5
+Tested up to: 6.6.2
 Requires PHP: 7.0
-Stable tag: 1.1.0
+Stable tag: 2.1.0
 License: MIT
 License URI: * License URI: http://opensource.org/licenses/MIT
 
