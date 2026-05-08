@@ -11,6 +11,8 @@ License URI: * License URI: http://opensource.org/licenses/MIT
 A simple plugin that allows sharing posts via a custom share button.
 
 == Description ==
+!! This project is no longer maintained. !!
+No new features, bug fixes, or support will be provided. 
 The Custom Share Button Plugin is a simple WordPress plugin that allows users to share posts via a custom share button.
 
 == Installation ==
@@ -57,6 +59,8 @@ Now, under **Select Row**, you can choose the **Alignment of Elements** and cust
 3. example firefox
 
 == Changelog ==
+!! This project is no longer maintained. !!
+No new features, bug fixes, or support will be provided. 
 Project maintained on GitHub at [Krisueu/Custom-Share-Button-Plugin](https://github.com/Krisueu/Custom-Share-Button-Plugin)
 
 = 1.1.0 =
